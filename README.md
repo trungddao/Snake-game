@@ -1,4 +1,5 @@
 Snake Game
+
 This is a classic Snake Game implemented in Java using Swing, inspired by the principles of the Brick Breaker game.
 
 How to Run
