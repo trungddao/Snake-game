@@ -21,6 +21,7 @@ javac SnakeGame.java
 java SnakeGame
 Use the arrow keys to control the snake and navigate through the game grid.
 
+
 Gameplay
 
 The objective of the game is to control the snake, eat apples, and avoid collisions.
@@ -28,9 +29,12 @@ The objective of the game is to control the snake, eat apples, and avoid collisi
 Use the arrow keys to change the snake's direction.
 Eat apples to grow the snake and increase your score.
 Avoid colliding with the snake's own body and the screen borders.
+
+
 Customization
 
 Feel free to customize the game or enhance the gameplay based on your preferences. The code is open for modification and improvement.
+
 
 Acknowledgments
 
